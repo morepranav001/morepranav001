@@ -1,4 +1,4 @@
-![logo](https://github.com/morepranav001/morepranav001/blob/main/SOFTWARE%20DEVELOPER.png)
+![logo](https://github.com/morepranav001/morepranav001/blob/main/DATA ANALYST_20250218_163846_0000.png)
 <h1 align="center">Hi 👋, I'm Pranav More</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
